@@ -1,0 +1,14 @@
+﻿.normal {
+    color: #444047 !important;
+    font-weight: 400;
+}
+
+.strike {
+    color: #ccc !important;
+    font-style: italic;
+    text-decoration: line-through;
+}
+
+.space {
+   padding-top: 50px;
+}
